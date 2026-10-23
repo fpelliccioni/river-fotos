@@ -266,6 +266,29 @@
       }
     },
     {
+      "id": "025",
+      "titulo": "LBDT · 025",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: dominante rosada y definición, preservando rojos y luz de bengalas; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/025/original.jpg",
+          "bytes": 780595,
+          "sha256": "5a20f4112f3301833ff90ae89621c1afd0f05e85e6cae4e1974397798752fd9c"
+        },
+        "restaurada": {
+          "archivo": "fotos/025/restaurada.jpg",
+          "bytes": 731919,
+          "sha256": "fc6e8955ac69a38fce60006aa2cea836304d2a5ef37a353605851a4a0eb64d68"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
