@@ -220,6 +220,29 @@
       }
     },
     {
+      "id": "021",
+      "titulo": "LBDT · 021",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: corrección de dominante violeta, color y definición; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/021/original.jpg",
+          "bytes": 1100888,
+          "sha256": "adcc7f1f7560e6abf9d09877d9e5fb2d1399ffe1348734bac00148f2d5e5b43e"
+        },
+        "restaurada": {
+          "archivo": "fotos/021/restaurada.jpg",
+          "bytes": 739066,
+          "sha256": "0252ae3dfc633fa6ca44bdd700673b1d6f442ec5a2ead347b97323b49739ba6f"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
