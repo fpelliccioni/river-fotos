@@ -358,6 +358,29 @@
       }
     },
     {
+      "id": "034",
+      "titulo": "LBDT · 034",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: definición y contraste, conservando humo e iluminación roja de bengalas; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/034/original.jpg",
+          "bytes": 783060,
+          "sha256": "1f1311a48645347a6e848c7a8b5d2c8504512cc3f5af4c4af41a83699b027ffc"
+        },
+        "restaurada": {
+          "archivo": "fotos/034/restaurada.jpg",
+          "bytes": 619249,
+          "sha256": "b76d2f7f478a94645468db1c64c30cacecef1f5912a17452d893ba34d091c471"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
