@@ -312,6 +312,29 @@
       }
     },
     {
+      "id": "032",
+      "titulo": "LBDT · 032",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración conservadora con IA: corrección de dominante azul/violeta; la fuente tiene desenfoque severo y detalle limitado.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/032/original.jpg",
+          "bytes": 955496,
+          "sha256": "1f32fdcfce5c25fea3c0d074057db12792b1932767448fce47695bd83baa5f16"
+        },
+        "restaurada": {
+          "archivo": "fotos/032/restaurada.jpg",
+          "bytes": 521505,
+          "sha256": "fa0cf8c8d8f5929e4be1317aa920779f827b40c900b8fddea9a2856d22b325f1"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
