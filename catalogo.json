@@ -289,6 +289,29 @@
       }
     },
     {
+      "id": "027",
+      "titulo": "LBDT · 027",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: color y definición bajo iluminación nocturna; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/027/original.jpg",
+          "bytes": 1292133,
+          "sha256": "7bea7758405bf850e2c4100bb2f28c62eb49fb1c2a130f3cb86a0626728ad52a"
+        },
+        "restaurada": {
+          "archivo": "fotos/027/restaurada.jpg",
+          "bytes": 751412,
+          "sha256": "2ea736b8df80e98cf3bb80c7d4275d3a7fa5ece407d7ec038405fd7fca1c16cd"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
