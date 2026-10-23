@@ -1,0 +1,269 @@
+{
+  "version": 1,
+  "titulo": "Archivo River",
+  "categorias": [
+    "LBDT",
+    "Jugadores",
+    "Equipos y formaciones",
+    "Partidos y jugadas",
+    "Festejos y títulos",
+    "Estadios",
+    "Banderas y murales",
+    "Historia del club"
+  ],
+  "fotos": [
+    {
+      "id": "003",
+      "titulo": "LBDT · 003",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/003/original.jpg",
+          "bytes": 1682698,
+          "sha256": "3664c52069c6c7da8fd28a25fd01d68fcc76b11edea385d697559de384ae4b5f"
+        },
+        "restaurada": {
+          "archivo": "fotos/003/restaurada.jpg",
+          "bytes": 850368,
+          "sha256": "96e722b2c63d270979f10dd4d1080cd3c26e338af4a5cdb552f7c0eed26d344c"
+        }
+      }
+    },
+    {
+      "id": "005",
+      "titulo": "LBDT · 005",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/005/original.jpg",
+          "bytes": 939440,
+          "sha256": "131d545212031cc3b3dc58814fb8a3a33c47f3aed52db6acdf72ee565512b2b3"
+        },
+        "restaurada": {
+          "archivo": "fotos/005/restaurada.jpg",
+          "bytes": 666939,
+          "sha256": "4915df784a7570925feecc50d2aa4f61e98e3525f51386a3a911e6120bd946dc"
+        }
+      }
+    },
+    {
+      "id": "007",
+      "titulo": "LBDT · 007",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/007/original.jpg",
+          "bytes": 2679443,
+          "sha256": "90bb8470369c05eb46ad8a1da8a09d5b0f6cbd50a3d923a00f478e158cd142ce"
+        },
+        "restaurada": {
+          "archivo": "fotos/007/restaurada.jpg",
+          "bytes": 1016752,
+          "sha256": "cf8426aa8a13b945f932723f1e090ebdf5cb82c149dc6395c4a344e12f63f70e"
+        }
+      }
+    },
+    {
+      "id": "008",
+      "titulo": "LBDT · 008",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/008/original.jpg",
+          "bytes": 817076,
+          "sha256": "288918fb08f933100c0c67391099bee9fa8c03b6e107b65f79ae8cab1123df24"
+        },
+        "restaurada": {
+          "archivo": "fotos/008/restaurada.jpg",
+          "bytes": 723408,
+          "sha256": "f6910003f1613bd89f0367e526f5969349f869435edd00f19aa661cb6e8934c9"
+        }
+      }
+    },
+    {
+      "id": "009",
+      "titulo": "LBDT · 009",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/009/original.jpg",
+          "bytes": 775145,
+          "sha256": "d9d6e6c82293d5cdf80a0b7145bd3cd396b39ceee5a9bd0ba5a41d67f229f7ea"
+        },
+        "restaurada": {
+          "archivo": "fotos/009/restaurada.jpg",
+          "bytes": 633534,
+          "sha256": "2b8de48a390fcff7173cc16d91474d1dc4373e5a9b74bcd71d6d8ca4e583a46c"
+        }
+      }
+    },
+    {
+      "id": "011",
+      "titulo": "LBDT · 011",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/011/original.jpg",
+          "bytes": 711522,
+          "sha256": "d00fe5f5be0a46b542bc23210f50fd31e7625f287b7d3d74b7eab1ae439bce3f"
+        },
+        "restaurada": {
+          "archivo": "fotos/011/restaurada.jpg",
+          "bytes": 635715,
+          "sha256": "b4d5a115dacf47aec90c2d2f57e31fe3812ac888039fee99a3b35819f122d0f0"
+        }
+      }
+    },
+    {
+      "id": "013",
+      "titulo": "LBDT · 013",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/013/original.jpg",
+          "bytes": 460913,
+          "sha256": "ddfcdaa8a6938b7cacc0c61114de9d2bbed413166dc93ae0b37e08916bcb9208"
+        },
+        "restaurada": {
+          "archivo": "fotos/013/restaurada.jpg",
+          "bytes": 398496,
+          "sha256": "5ba31a829eb6254ece734a74bcdbf95d1feb7e260df846fa16dfcda86ea02a8e"
+        }
+      }
+    },
+    {
+      "id": "019",
+      "titulo": "LBDT · 019",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/019/original.jpg",
+          "bytes": 631124,
+          "sha256": "7f460483f92e8927bbb2eee7c5ada790d2734dbcf16720d19cc20cc8b5fb1c07"
+        },
+        "restaurada": {
+          "archivo": "fotos/019/restaurada.jpg",
+          "bytes": 676009,
+          "sha256": "71051b15885bdc20c516038142bb85d46eb970f9fc2294747bf761abe97ecfb2"
+        }
+      }
+    },
+    {
+      "id": "020",
+      "titulo": "LBDT · 020",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/020/original.jpg",
+          "bytes": 984788,
+          "sha256": "ed446594d446b92a928575fa5e0aed85808ae559d2668d8db0004d2de2b60741"
+        },
+        "restaurada": {
+          "archivo": "fotos/020/restaurada.jpg",
+          "bytes": 800042,
+          "sha256": "60b784b5b9a46022c5a7663462e01bd3a7328b9159cd6ccef825f232b41dd4f4"
+        }
+      }
+    },
+    {
+      "id": "279",
+      "titulo": "LBDT · 279",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/279/original.jpg",
+          "bytes": 1975510,
+          "sha256": "fc21bdae7bbacbafd34949e2174fafe68d7a7936c4634dfb33838f0fa3642819"
+        },
+        "restaurada": {
+          "archivo": "fotos/279/restaurada.jpg",
+          "bytes": 688566,
+          "sha256": "f380b2a77adbf8cd0517a0dcffa995330c31a4567356cbee075281cf376680b2"
+        }
+      }
+    },
+    {
+      "id": "285",
+      "titulo": "LBDT · 285",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/285/original.jpg",
+          "bytes": 1804752,
+          "sha256": "377b1bb9e046d98ec78f6458a757b93d9f7db74c3e5dd7be5281708f583df5ac"
+        },
+        "restaurada": {
+          "archivo": "fotos/285/restaurada.jpg",
+          "bytes": 892789,
+          "sha256": "955eb4d1d9e86bde01c977ea751601bcb1d67f352075ac0b45c0bb61a5f7d214"
+        }
+      }
+    }
+  ]
+}
