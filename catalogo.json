@@ -381,6 +381,29 @@
       }
     },
     {
+      "id": "035",
+      "titulo": "LBDT · 035",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: definición y dominante violeta, preservando luz de bengalas y cartel; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/035/original.jpg",
+          "bytes": 1164047,
+          "sha256": "f348f53ad37b87085e2bf1426d646bb05a9ac94369d410c3f0b995a1d9ec45fe"
+        },
+        "restaurada": {
+          "archivo": "fotos/035/restaurada.jpg",
+          "bytes": 673834,
+          "sha256": "5ba5ff520fff19300f08ec6854dc059729449cfcdf008844d7b82d17b27e52a4"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
