@@ -404,6 +404,29 @@
       }
     },
     {
+      "id": "036",
+      "titulo": "LBDT · 036",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: dominante amarilla, color y definición; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/036/original.jpg",
+          "bytes": 1227554,
+          "sha256": "4ee12f583e7e610b6f992942df309233ede66aa104962a3b3fc8af604b703b48"
+        },
+        "restaurada": {
+          "archivo": "fotos/036/restaurada.jpg",
+          "bytes": 866014,
+          "sha256": "731aa4cba026941e0da363fda0816c426d3116bace5653870c79eed591688f60"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
