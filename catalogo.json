@@ -243,6 +243,29 @@
       }
     },
     {
+      "id": "022",
+      "titulo": "LBDT · 022",
+      "categoria": "LBDT",
+      "anio": null,
+      "epocas": [],
+      "etiquetas": [],
+      "fuente": null,
+      "autor": null,
+      "retoque": "Restauración con IA: color, blancos, rojo y definición; puede reconstruir detalles.",
+      "versiones": {
+        "original": {
+          "archivo": "fotos/022/original.jpg",
+          "bytes": 976384,
+          "sha256": "d0d0f86e3d50dad0c848bf8e5b7b9e4f711035251174651ca93cd0e618ea81f6"
+        },
+        "restaurada": {
+          "archivo": "fotos/022/restaurada.jpg",
+          "bytes": 691753,
+          "sha256": "83c1783cc56b34aa43977a2b0d99c95a5e99ffb9175a7bad5312daae36e846a1"
+        }
+      }
+    },
+    {
       "id": "279",
       "titulo": "LBDT · 279",
       "categoria": "LBDT",
